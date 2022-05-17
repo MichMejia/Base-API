@@ -1,0 +1,37 @@
+[
+    {
+      "nombre" : " LINEA" ,
+      "imagen" : " patines/linea.png"
+    },
+    {
+      "nombre" : " QUADS " ,
+      "imagen" : " patines/Quads.jpg"
+    },
+    {
+      "nombre" : " SCOOTER " ,
+      "imagen" : " patines/scooter.png"
+    },
+    {
+      "nombre" : " HIELO" ,
+      "imagen" : " patines/hielo.jpg "
+    },
+    {
+      "nombre" : " SKATES " ,
+      "imagen" : " patines/skates.png "
+    },
+    {
+      "nombre" : " ROPA",
+      "imagen" : " patines/ropa.png "
+    }
+    {
+      "nombre" : " PROTECCIONES " ,
+      "imagen" : " patines/protecciones.png "
+    }
+    {
+      "nombre" : " TENIS " ,
+      "imagen" : " patines/tenis.png "
+    }
+
+
+
+  ]
