@@ -1,15 +1,15 @@
 [
     {
       "Tipo" : " LINEA" ,
-      "imagen" : " imagenes/patines/linea.png"
+      "imagen" : " imagenes/patines/linea.png "
     },
     {
       "Tipo" : " QUADS " ,
-      "imagen" : " imagenes/patines/Quads.jpg"
+      "imagen" : " imagenes/patines/Quads.jpg "
     },
     {
       "Tipo" : " SCOOTER " ,
-      "imagen" : " imagenes/patines/scooter.png"
+      "imagen" : " imagenes/patines/scooter.png "
     },
     {
       "Tipo" : " HIELO" ,
